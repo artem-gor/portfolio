@@ -7,6 +7,6 @@
 - Gulp
 - JavaScript
 
-You can use [my portfolio](https://lotos811.github.io/portfolio/)
+You can view [my portfolio](https://lotos811.github.io/portfolio/)
 
 
